@@ -1,0 +1,16 @@
+2023-10-16 02:26:11 [INFO]: Iteration 1
+Local IP Address: 127.0.0.1
+Local Port: 50436
+
+2023-10-16 02:26:15 [INFO]: Iteration 2
+Local IP Address: 127.0.0.1
+Local Port: 50457
+
+2023-10-16 02:26:19 [INFO]: Iteration 3
+Local IP Address: 127.0.0.1
+Local Port: 50478
+
+2023-10-16 02:26:23 [INFO]: Iteration 4
+Local IP Address: 127.0.0.1
+Local Port: 50500
+
